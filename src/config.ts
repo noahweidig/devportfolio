@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     "Geospatial analyst and data scientist working at the intersection of spatial analytics, data science, and applied AI. I convert spatial and environmental data into actionable insights with 8+ years of research experience and 25+ published papers.",
-  skills: ["R", "Python", "JavaScript", "SQL", "ArcGIS Pro", "QGIS", "Google Earth Engine", "Git", "pandas", "tidyverse"]
+  skills: ["R", "Python", "JavaScript", "SQL", "ArcGIS Pro", "QGIS", "Google Earth Engine", "Git", "pandas", "tidyverse"],
   projects: [
     {
       name: "FastStats",
